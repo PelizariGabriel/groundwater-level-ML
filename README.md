@@ -46,8 +46,6 @@ The output contains cleaned and barometrically compensated water levels ready fo
 | `date_time` | Timestamp (30-min resolution) |
 | `pressao_mH2O_final` | Final atmospheric pressure (IG + MERRA2 resampled to 30 min) |
 | `gmu_level_mH2O_compensado` | GMU well compensated water level |
-| `grafica_level_mH2O_compensado` | Gráfica well compensated water level |
-| `correios_level_mH2O_compensado` | Correios well compensated water level |
 | `chuva_mm_30min` | Total rainfall during the 30-min interval |
 
 ### Scientific Context

@@ -21,6 +21,8 @@ project/
 ├── nivel-pocos_chuva_pressao_tratados.csv
 ├── funcionamento_pocos_30min.csv
 ├── earth_tide.csv
+├── nivel-pocos_chuva_pressao_original.csv # original file
+├── pontos_manuais_cota_offset.csv # used in corrections of the dataset with manual measurements
 ```
 
 Each dataset is described below.
